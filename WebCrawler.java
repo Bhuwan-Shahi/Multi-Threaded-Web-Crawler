@@ -48,7 +48,7 @@ public class WebCrawler implements Runnable {
                     System.out.println("Found image URL: " + imageUrl);
                 }
 //                String text = doc.text();
-//                List<String> emails = extractEmails(text); // Fixed typo
+//                List<String> emails = extractEmails(text); 
 //
 //                for (String email : emails) {
 //                    System.out.println("Found email: " + email);
